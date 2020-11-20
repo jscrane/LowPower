@@ -1,10 +1,10 @@
 # 8MHz ATTiny84 with Optiboot
 
-These sketches are compiled with [uC-Makefile](jscrane/uC-Makefile) 
-against [ATTinyCore](SpenceKonde/ATTinyCore).
+These sketches are compiled with [uC-Makefile](https://github.com/jscrane/uC-Makefile) 
+against [ATTinyCore](https://github.com/SpenceKonde/ATTinyCore).
 
 A valuable source of information was Nick Gammon's 
-[Power saving techniques for microprocessors](http://www.gammon.com.au/power).
+[Power saving techniques for microprocessors](https://www.gammon.com.au/power).
 
 ## Timings
 
