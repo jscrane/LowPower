@@ -8,15 +8,15 @@ A valuable source of information was Nick Gammon's
 
 ## Timings
 
-| sketch | time	| description |
+| sketch | current | description |
 | ------ | ---- | ----------- |
-|0 |	2.36mA |	blank sketch |
-|1 |	226uA |		sleep_mode_pwr_down |
-|2 | 	219uA |		2 + bod disabled |
-|3 | 	<218uA |	2 + power_all_disable |
-|4 | 	<1uA |		3 + ADCSRA = 0 |
-|5 | 	5uA |		2 + ADCSRA = 0 + WDT(8s) |
-|6 |	5uA |		3 + ADCSRA = 0 + WDT(8s) |
+| [0](0.ino) |	2.36m |	blank sketch |
+| [1](1.ino) |	226u |		sleep_mode_pwr_down |
+| [2](2.ino) | 	219u |		2 + bod disabled |
+| [3](3.ino) | 	<218u |	2 + power_all_disable |
+| [4](4.ino) | 	<1u |		3 + ADCSRA = 0 |
+| [5](5.ino) | 	5u |		2 + ADCSRA = 0 + WDT(8s) |
+| [6](6.ino) |	5u |		3 + ADCSRA = 0 + WDT(8s) |
 
 ## Notes
 
