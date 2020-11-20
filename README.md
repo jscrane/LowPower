@@ -6,7 +6,7 @@ against [ATTinyCore](https://github.com/SpenceKonde/ATTinyCore).
 A valuable source of information was Nick Gammon's 
 [Power saving techniques for microprocessors](https://www.gammon.com.au/power).
 
-## Timings
+## Current
 
 | sketch | current | description |
 | ------ | ---- | ----------- |
